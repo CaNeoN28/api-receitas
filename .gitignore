@@ -1,2 +1,2 @@
-./node_modules
-./data_mongodb
+node_modules/
+/data_mongodb/db
